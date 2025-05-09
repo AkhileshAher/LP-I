@@ -1,0 +1,5 @@
+start 101
+movem areg, a
+add areg, a
+comp creg, n
+end
